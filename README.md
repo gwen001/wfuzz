@@ -27,9 +27,13 @@ For further information check the wiki at https://github.com/xmendez/wfuzz/wiki.
 
 Or check the README file for usage examples.
 
-
 ## Download 
 
 Check github releases. Latest:
 
 - https://github.com/xmendez/wfuzz/releases/latest
+
+
+## Added by me
+
+The printer `gcustom` which disable the colors and doesn't display the tested words.
