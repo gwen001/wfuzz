@@ -46,3 +46,6 @@ wsdl
 wsgw
 wsil
 xmethods
+robot
+config
+phpinfo
